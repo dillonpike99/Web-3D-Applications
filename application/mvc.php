@@ -16,6 +16,8 @@ if(strlen($pageURI) == 0) {
 	new Controller("drinks");
 } elseif(substr($pageURI, 0, 7) == "builddb") {
 	new Controller("builddb");
+} else {
+	new Controller("notfound");
 }
 
 ?>

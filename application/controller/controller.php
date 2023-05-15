@@ -24,6 +24,11 @@ class Controller {
 		$this->load->view("drinks", $data);
 	}
 
+	function notfound()
+	{
+		$this->load->view("notfound");
+	}
+
 	function buildDB()
 	{
 		$data = $this->model->buildDB();
