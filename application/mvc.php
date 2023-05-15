@@ -12,9 +12,9 @@ if(strlen($pageURI) == 0) {
 	new Controller("home");
 } elseif($pageURI == "home") {
 	new Controller("home");
-} elseif(substr($pageURI, 0, 6) == "drinks") {
+} elseif($pageURI == "drinks" || substr($pageURI, 0, 7) == "drinks?") {
 	new Controller("drinks");
-} elseif(substr($pageURI, 0, 7) == "builddb") {
+} elseif($pageURI == "builddb") {
 	new Controller("builddb");
 } else {
 	new Controller("notfound");
