@@ -1,0 +1,97 @@
+{
+	"homeData": [
+		{
+			"title": "Coca Cola Great Britain",
+			"subTitle": "Founded by Dr John S Pemberton",
+			"description": "The Coca Cola Company is the world's leading manufacturer, marketer and distributor of non-alcoholic beverage concentrates and syrups, and produces nearly 400 brands.",
+			"image": "main_3D.png",
+			"modelhref": "drinks?d=coca_cola",
+			"url": "https://www.coca-cola.co.uk/"
+		},
+		{
+			"title": "Coca Cola",
+			"subTitle": "New York Harbour, 1886",
+			"description": "Atlanta Beginnings: It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Eight hundred miles away, another great American symbol was about to be unveiled. Like many people who change history, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. Here, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents (about 3p) a glass.",
+			"image": "coca_cola.jpg",
+			"modelhref": "drinks?d=coca_cola",
+			"url": "https://www.coca-cola.co.uk/brands/coca-cola-original-taste"
+		},
+		{
+			"title": "Sprite",
+			"subTitle": "West Germany, 1959",
+			"description": "First introduced in 1961, crisp, refreshing, clean-tasting Sprite is now the world's leading lemon and lime flavoured soft drink and is sold in more than 190 different countries. Sprite Zero, part of our no sugar Zero range, offers the delicious lemon lime taste of Sprite without the sugar or calories.",
+			"image": "sprite.jpg",
+			"modelhref": "drinks?d=sprite",
+			"url": "https://www.coca-cola.co.uk/brands/sprite"
+		},
+		{
+			"title": "Dr Pepper",
+			"subTitle": "Texas, 1885",
+			"description": "Dr Pepper's unique, sparkling blend of 23 fruit flavours has been around for well over a century and it's still the same, with that distinctive flavour you just can't quite put your tongue on. It was created by Texas pharmacist Charles Alderton in 1885. He gave a sample of the first ever batch to Wade Morrison, a local shop owner, and Mr Morrison instantly agreed to stock the drink. The distinctive, bold taste of Dr Pepper has been popular ever since.",
+			"image": "dr_pepper.jpg",
+			"modelhref": "drinks?d=dr_pepper",
+			"url": "https://www.coca-cola.co.uk/brands/dr-pepper"
+		}
+	],
+	"drinksData": [
+		{
+			"modelTitle": "Coca Cola X3D Model",
+			"creationMethod": "This X3D model of our Coke can was created using Blender.",
+			"title": "History of Coca Cola",
+			"subTitle": "Atlanta Beginnings",
+			"description": "It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Eight hundred miles away, another great American symbol was about to be unveiled. Like many people who change history, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. Here, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents (about 3p) a glass.",
+			"model": "coca_cola.x3d",
+			"url": "https://www.coca-cola.co.uk/brands/coca-cola-original-taste"
+		},
+		{
+			"modelTitle": "Sprite X3D Model",
+			"creationMethod": "This X3D model of our Sprite bottle was created using Blender.",
+			"title": "Sprite - Fanta Klare Zitrone",
+			"subTitle": "First introduced in 1961",
+			"description": "Crisp, refreshing, clean-tasting Sprite is now the world's leading lemon and lime flavoured soft drink and is sold in more than 190 different countries. Sprite Zero, part of our no sugar Zero range, offers the delicious lemon lime taste of Sprite without the sugar or calories.",
+			"model": "sprite.x3d",
+			"url": "https://www.coca-cola.co.uk/brands/sprite"
+		},
+		{
+			"modelTitle": "Dr Pepper X3D Model",
+			"creationMethod": "This X3D model of our Dr Pepper cup was created using Blender.",
+			"title": "Dr Pepper - Liquid Sunshine",
+			"subTitle": "23 fruit flavours",
+			"description": "Dr Pepper's unique, sparkling blend of 23 fruit flavours has been around for well over a century and it's still the same, with that distinctive flavour you just can't quite put your tongue on. It was created by Texas pharmacist Charles Alderton in 1885. He gave a sample of the first ever batch to Wade Morrison, a local shop owner, and Mr Morrison instantly agreed to stock the drink. The distinctive, bold taste of Dr Pepper has been popular ever since.",
+			"model": "dr_pepper.x3d",
+			"url": "https://www.coca-cola.co.uk/brands/dr-pepper"
+		}
+	],
+	"miscData": [
+		{
+			"title": "3D Image Gallery",
+			"description": "These 3D images of our products were created using Blender."
+		},
+		{
+			"title": "Camera Views",
+			"description": "These buttons select a range of X3D model viewpoints and animations."
+		},
+		{
+			"title": "Lighting Views",
+			"description": "These buttons toggle a range of lighting options on the X3D model."
+		},
+		{
+			"title": "Model Views",
+			"description": "These buttons select a range of viewing options on the X3D model."
+		}
+	],
+	"galleryData": [
+		{
+			"name": "Coca Cola",
+			"image": "coca_cola.png"
+		},
+		{
+			"name": "Sprite",
+			"image": "sprite.png"
+		},
+		{
+			"name": "Dr Pepper",
+			"image": "dr_pepper.png"
+		}
+	]
+}

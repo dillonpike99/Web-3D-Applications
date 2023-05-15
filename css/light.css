@@ -1,0 +1,107 @@
+/* Navigation Bar */
+
+.navbar_coca_cola {
+    background-color: #F40009; /* Set navbar background color */
+}
+
+
+.navbar_coca_cola .navbar-brand {
+    color: white;
+}
+    
+.navbar_coca_cola .navbar-brand:hover {
+    color: black;
+}
+
+.navbar_coca_cola .navbar-nav > li > a {
+	color: white;  
+}
+
+.navbar_coca_cola .navbar-nav > li > a:hover, 
+.navbar_coca_cola .navbar-nav > li > a:focus {
+    color: black;  
+}
+
+.navbar_coca_cola .navbar-toggler {
+    border-color: white;
+}
+
+.dropdown-menu {
+    background-color: #c30007;
+    border: 1px solid rgba(255, 255, 255, 1);
+}
+.dropdown-menu .dropdown-item {
+    color: white;
+}
+.dropdown-menu .dropdown-item:hover {
+    color: #030303;
+    background-color: #e98074;
+}
+
+
+/* Modal */
+
+.modal-content {
+    background-color: #f8f8f8;
+    border: 1px solid rgba(0, 0, 0, 1);
+    color: black;
+}
+
+.modal-content .btn-close {
+    filter: brightness(0) invert(0);
+}
+
+
+/* Body */
+
+body {
+    background-color: #f8f8f8;
+}
+
+.card {
+    border: 1px solid rgba(0, 0, 0, 1);
+    background-color: #e8e8e8;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card h1, .card h2, .card h3, .card h4, .card h5, .card h6, .card p {
+    color: black;
+}
+
+.btn-group {
+    border: 1px solid rgba(0, 0, 0, 1.0);
+}
+
+.model3D {
+    background-color: #d0d0d0;
+    border: 1px solid rgba(0, 0, 0, 1.0);
+}
+
+X3D, x3d {
+    border: 1px solid rgba(0, 0, 0, 1.0);
+}
+
+.btn-primary {
+    background-color: #d0d0d0;
+    border: 1px solid rgba(0, 0, 0, 1.0);
+    color: black;
+}
+
+/* Footer */
+.footer {
+    color: white;
+    background-color: #F40009;
+}
+
+.navbar-text > p {
+    color: rgb(255, 255, 255);
+}
+
+.social-logo {
+    color: white;
+}
+
+.social-logo:hover,
+.social-logo:focus {
+    color: black;
+}

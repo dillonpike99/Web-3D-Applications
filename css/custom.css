@@ -1,0 +1,167 @@
+@font-face {
+    font-family: cocaColaFont;
+    src: url(../assets/fonts/LOKICOLA.TTF);
+}
+
+/* Logo */
+
+.logo {
+    margin-top: 35px;
+}
+
+.logo h1 {
+    font-family: cocaColaFont;
+    font-size: 50px;
+    margin: 0;
+    margin-top: -10px;
+    margin-bottom: -15px;
+    float: left;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 2px;
+}
+
+.logo h2 {
+    font-family: cocaColaFont;
+    font-size: 50px;
+    margin-top: -6px;
+    margin-bottom: -15px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 3px;
+    float: left;
+}
+
+.logo h3 {
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: -5px;
+    padding-top: 0px;
+    padding-left: 0px;
+    float: left;
+}
+
+.logo p {
+    font-size: 13px;
+    margin-top: 45px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 3px;
+}
+
+/* Navigation Bar */
+
+.navbar_coca_cola {
+    border-width: 0px;
+    min-height: 70px;
+}
+
+
+.navbar_coca_cola .navbar-nav > li > a {
+    font-weight: bold;
+}
+
+.navbar_coca_cola  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1.0)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.dropdown-menu {
+    text-align: -webkit-left;
+}
+
+.navbar_coca_cola .navbar-toggler {
+    outline: none !important;
+}
+
+.theme-button {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+/* Body */
+
+.main_contents {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.gallery-image {
+    width: auto;
+    max-height: 240px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.model3D {
+    border-radius: 5px;
+    padding: 2px;
+    height: 500px;
+}
+
+X3D, x3d {
+    border-radius: 5px;
+    width: 100%;
+    height: 100%
+}
+
+.btn-primary {
+    border-radius: 10px;
+    margin-right: 5px;
+}
+
+
+/* Footer */
+.footer {
+    height: 60px;
+}
+
+.navbar-text > a {
+    font-size: 10px;
+}
+
+.navbar-text > p {
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.copyright {
+    margin-top: 15px;
+}
+
+.social {
+    margin-top: 0px; 
+}
+
+.social-logo {
+    color: white;
+    padding-left: 15px;
+}
+
+/* Fonts */
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Oswald;
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { ... }
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { ... }
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { ... }
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { ... }
